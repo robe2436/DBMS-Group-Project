@@ -52,3 +52,98 @@ VALUES (024, Linen, Textiles);
 Insert into Products (ProductID, ProductName, ProductCategory)
 VALUES (025, Silk, Textiles);
 
+--Jd's part
+
+-- 10 Farmers Markets
+
+INSERT INTO Farmers_Market (MarketID, MarketName, Address)
+VALUES (001, 'Downtown Farmers Market', '123 Main St');
+
+INSERT INTO Farmers_Market (MarketID, MarketName, Address)
+VALUES (002, 'Riverside Farmers Market', '456 River Rd');
+
+INSERT INTO Farmers_Market (MarketID, MarketName, Address)
+VALUES (003, 'Green Valley Market', '789 Valley Dr');
+
+INSERT INTO Farmers_Market (MarketID, MarketName, Address)
+VALUES (004, 'Sunrise Farmers Market', '101 Sunrise Ave');
+
+INSERT INTO Farmers_Market (MarketID, MarketName, Address)
+VALUES (005, 'Oakwood Farmers Market', '202 Oak St');
+
+INSERT INTO Farmers_Market (MarketID, MarketName, Address)
+VALUES (006, 'Lakeside Farmers Market', '303 Lake Rd');
+
+INSERT INTO Farmers_Market (MarketID, MarketName, Address)
+VALUES (007, 'Harvest Hill Market', '404 Hill St');
+
+INSERT INTO Farmers_Market (MarketID, MarketName, Address)
+VALUES (008, 'Prairie Farmers Market', '505 Prairie Ave');
+
+INSERT INTO Farmers_Market (MarketID, MarketName, Address)
+VALUES (009, 'Maple Grove Market', '606 Maple Dr');
+
+INSERT INTO Farmers_Market (MarketID, MarketName, Address)
+VALUES (010, 'Fresh Fields Market', '707 Field Rd');
+
+-- 20 Vendors
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (001, 'Green Acres', 'greenacres.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (002, 'Sunny Farms', 'sunnyfarms.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (003, 'Oak Hill Farm', 'oakhillfarm.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (004, 'Fresh Harvest', 'freshharvest.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (005, 'Riverbend Farm', 'riverbendfarm.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (006, 'Blue Sky Farm', 'blueskyfarm.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (007, 'Golden Fields', 'goldenfields.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (008, 'Maple Creek', 'maplecreek.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (009, 'Happy Hen Farm', 'happyhenfarm.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (010, 'Prairie Roots', 'prairieroots.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (011, 'Red Barn Farm', 'redbarnfarm.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (012, 'Hilltop Produce', 'hilltopproduce.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (013, 'Valley Fresh', 'valleyfresh.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (014, 'Morning Dew', 'morningdew.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (015, 'Cedar Grove', 'cedargrove.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (016, 'Sweet Berry', 'sweetberry.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (017, 'Meadow Farms', 'meadowfarms.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (018, 'Farmhouse Eggs', 'farmhouseeggs.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (019, 'Country Greens', 'countrygreens.com');
+
+INSERT INTO Vendor (VendorID, VendorName, VendorWebsite)
+VALUES (020, 'Wildflower Farm', 'wildflowerfarm.com');
